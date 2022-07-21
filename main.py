@@ -1,7 +1,7 @@
 import turtle
 t = turtle.Turtle()
 turtle.Screen().bgcolor("black")
-
+ytt
 t.penup()
 t.goto(-230, 175)
 t.pendown()
